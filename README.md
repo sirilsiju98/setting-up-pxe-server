@@ -72,5 +72,5 @@ Step 18:Some times you may not able to access your ethernet
 
   
   
- </pre>
+ </pre> 
 # setting-up-pxe-server
